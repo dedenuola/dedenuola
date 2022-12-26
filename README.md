@@ -1,13 +1,10 @@
 ### Hi there, welcome to my Github👋
 - 😄 Pronouns: Him/He
-I am a Quality Assurance Analyst with a background learning and applied experience in Data and Business Analytics.
-<!--
-**dedenuola/dedenuola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> 
+- 😃 A Quality Assurance Analyst with background learning and applied experience in Research, Machine Learning, Data and Business Analytics. 
 - 🌱 I’m currently learning Deep learning on The Complete Data Science Program by [365 Careers](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp)
-- 👯 I’m looking to collaborate on Data & Business Analytics projects
-- You can [view my resume](https://docs.google.com/document/d/1fXC5LRuujr-k0rU0ogaAtNOXPqjqXUSs/edit) and contact me by emailing dedenuolashina@gmail.com.
-- Do find links to a detailed breakdown of my certifications in Data Analytics below:
+- 👯 I’m looking to collaborate on Data science projects
+- 💼 You can [view my resume](https://docs.google.com/document/d/1fXC5LRuujr-k0rU0ogaAtNOXPqjqXUSs/edit) and contact me by emailing dedenuolashina@gmail.com.
+- 🔗 Do find links to a detailed breakdown of my certifications in Data Analytics below:
 
 [WORLDQUANT UNIVERSITY](https://www.credly.com/badges/c303c35d-a5a5-46e1-ad00-bcc0e322def0?source=linked_in_profile),
 [UDACITY](https://graduation.udacity.com/confirm/CZAEKSZP)
