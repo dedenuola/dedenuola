@@ -1,6 +1,6 @@
 ### Hi there, welcome to my Github👋
 - 😄 Pronouns: Him/He
-- 😃 A Quality Assurance Analyst with background learning and applied experience in Research, Machine Learning, Data and Business Analytics. 
+- 😃 A Data Geoscientist with background learning and applied experience in Research, Machine Learning, Data and Business Analytics. 
 - 🌱 I’m currently learning Deep learning at The Complete Data Science Program by [365 Careers](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp)
 - 👯 I’m looking to collaborate on Data science projects
 - 💼 You can [view my resume](https://docs.google.com/document/d/1fXC5LRuujr-k0rU0ogaAtNOXPqjqXUSs/edit) and contact me by emailing dedenuolashina@gmail.com.
